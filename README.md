@@ -1,4 +1,4 @@
-Repository name:
+PRIME time press 
 prime-time-press
 
 Description:
